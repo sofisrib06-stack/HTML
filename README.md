@@ -7,7 +7,10 @@
 <h4 style="color: green;"> Junior Fronted Developer </h4>
 
 <!--Estrutura para pular linha : </br>-->
-<h6> Rua José Belchior 701 </br> Ceará </br>(085)99695.4818 </br> sofisrib06@gmail.com</h6>
+<h6> Rua José Belchior ,701 </br> Ceará </br>(085)99695.4818 </br> sofisrib06@gmail.com</h6>
+
+<h4 style="color: green;"> Career Objective </h4>
+<h6> Busco aplicar conhecimentos acadêmicos e desenvolver habilidades profissionais.</h6>
 
 <h4 style="color: green;"> Skills </h4>
 <h6> HTML,C++ , PYTHON and JAVA</h6>
@@ -16,7 +19,16 @@
 <h3 style="color:blue;"> Federal Institute of Education, Science and Technology of Ceará </h3>
 <h6>Engenharia da Computação - Previsão de Conclusão : 09/2030 </h6>
 
-<h4 style="color: green;"> Across the Internet </h4>
+<h4 style="color: green;"> languages </h4>
+<h6>Inglês Intermediário - ES Dubai Winter Camp (10/01/2022 - 28/01/2022)</h6>
 
-<body>
+
+
+
+<!--Adicionar link: <a href="URL_DO_PERFIL">LinkedIn</a>-->
+<h4 style="color: green;"> Across the Internet </h4>
+<a href= "https://www.linkedin.com/in/sofia-silva-ribeiro-b59155400/">Linkedin ,</a>
+<a href= "https:https://github.com/sofisrib06-stack"> GitHub </a>
+
+</body>
 </html>
