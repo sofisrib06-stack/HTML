@@ -7,7 +7,7 @@
 <h4 style="color: green;"> Junior Fronted Developer </h4>
 
 <!--Estrutura para pular linha : </br>-->
-<h6> Rua José Belchior ,701 </br> Ceará </br>(085)99695.4818 </br> sofisrib06@gmail.com</h6>
+<h6> <address>Rua José Belchior ,701 <br> Ceará <br>(085)99695.4818 <br> sofisrib06@gmail.com </address>address></h6>
 
 <h4 style="color: green;"> Career Objective </h4>
 <h6> Busco aplicar conhecimentos acadêmicos e desenvolver habilidades profissionais.</h6>
