@@ -4,10 +4,10 @@
 <body>
 <h1> SOFIA SILVA RIBEIRO </h1>
 <!--Estrutura para add cor : style = "color: cor;"-->
-<h4 style="color: green;"> Junior Fronted Developer </h4>
+<h4 style="color: green;" style="text-align:center;"> Junior Fronted Developer </h4>
 
 <!--Estrutura para pular linha : </br>-->
-<h6> <address>Rua José Belchior ,701 <br> Ceará <br>(085)99695.4818 <br> sofisrib06@gmail.com </address></h6>
+<address>Rua José Belchior ,701 <br> Ceará <br>(085)99695.4818 <br> sofisrib06@gmail.com </address>
 
 <h4 style="color: green;"> Career Objective </h4>
 <h6> Busco aplicar conhecimentos acadêmicos e desenvolver habilidades profissionais.</h6>
