@@ -29,6 +29,7 @@
 <h4 style="color: green;"> Across the Internet </h4>
 <h6><a href= "https://www.linkedin.com/in/sofia-silva-ribeiro-b59155400/">Linkedin ,</a></h6>
 <h6> <a href="https://github.com/sofisrib06-stack/HTML">Meu GitHub</a> </h6>
+<h6><a href="https://roadmap.sh/projects/single-page-cv">W3School</a></h6>
 
 
 </body>
