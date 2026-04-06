@@ -1,33 +1,37 @@
 <!-- EXERCICIO -->
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html >
+<html lang="pt-br">
 <body>
-<h1> SOFIA SILVA RIBEIRO </h1>
-<!--Estrutura para add cor : style = "color: cor;"-->
-<h4 style="color: green; text-align: center;"> Junior Frontend Developer </h4>
+<h1 style="text-align: center;">Sofia Silva Ribeiro</h1>
+<h3 style="color: green; text-align: center;">Junior Frontend Developer</h3>
 
-<!--Estrutura para pular linha : </br>-->
-<address> Rua José Belchior ,701 <br> Ceará <br>(085)99695.4818 <br> sofisrib06@gmail.com </address>
+<address>
+Rua José Belchior, 701 <br>
+Ceará <br>
+(85) 99695-4818 <br>
+sofisrib06@gmail.com
+</address>
 
-<h4 style="color: green;"> Career Objective </h4>
-<h6> Busco aplicar conhecimentos acadêmicos e desenvolver habilidades profissionais.</h6>
+<hr>
 
-<h4 style="color: green;"> Skills </h4>
-<h6> HTML,C++ , PYTHON and JAVA</h6>
+<h3 style="color: green;">Objetivo</h3>
+<p>Busco aplicar conhecimentos acadêmicos e desenvolver habilidades profissionais.</p>
 
-<h4 style="color: green;"> Education </h4>
-<h3 style="color: blue;"> Federal Institute of Education, Science and Technology of Ceará </h3>
-<h6>Engenharia da Computação - Previsão de Conclusão : 09/2030 </h6>
+<h3 style="color: green;">Habilidades</h3>
+<p>HTML, C++, Python, Java</p>
 
-<h4 style="color: green;"> languages </h4>
-<h6>Inglês Intermediário - ES Dubai Winter Camp (10/01/2022 - 28/01/2022)</h6>
+<h3 style="color: green;">Educação</h3>
+<p><strong>Instituto Federal do Ceará (IFCE)</strong></p>
+<p>Engenharia da Computação - Conclusão prevista: 09/2030</p>
 
-
+<h3 style="color: green;">Idiomas</h3>
+<p>Inglês Intermediário - ES Dubai Winter Camp (2022)</p>
 
 
 <!--Adicionar link: <a href="URL_DO_PERFIL">LinkedIn</a>-->
-<h4 style="color: green;"> Across the Internet </h4>
-<h6><a href= "https://www.linkedin.com/in/sofia-silva-ribeiro-b59155400/" >Linkedin , <a href="https://github.com/sofisrib06-stack/HTML"  >Meu GitHub ,<a href="https://roadmap.sh/projects/single-page-cv">W3School. </h6>
+<a href="https://www.linkedin.com/in/sofia-silva-ribeiro-b59155400/">LinkedIn</a> |
+<a href="https://github.com/sofisrib06-stack/HTML">GitHub</a> |
+<a href="https://roadmap.sh/projects/single-page-cv">Projeto CV</a>
 
 
 
